@@ -1,0 +1,236 @@
+US-VA#3Manassas
+US-VA#4Manassas
+US-CA#3San Jose
+US-CA#4San Jose
+US-TX#6Dallas
+US-TX#7Dallas
+US-TX#8Dallas
+US-NJ#5Secaucus
+US-NJ#6Secaucus
+US-NJ#7Secaucus
+US-NJ#8Secaucus
+US-NJ#11Secaucus
+US-NJ#12Secaucus
+US-NY#8New York City
+US-NY#6New York City
+US-NY#7New York City
+US-CA#13Los Angeles
+US-CA#14Los Angeles
+US-CA#15Los Angeles
+US-CA#16Los Angeles
+US-WA#9Seattle
+US-WA#10Seattle
+US-WA#11Seattle
+US-WA#12Seattle
+US-WA#13Seattle
+US-WA#14Seattle
+US-WA#15Seattle
+US-WA#16Seattle
+US-IL#13Chicago
+US-IL#14Chicago
+US-IL#15Chicago
+US-IL#16Chicago
+US-NY#9New York City
+US-NY#10New York City
+US-NY#11New York City
+US-NY#12New York City
+US-AZ#1Phoenix
+US-AZ#2Phoenix
+US-AZ#3Phoenix
+US-AZ#4Phoenix
+US-GA#1Atlanta
+US-GA#2Atlanta
+US-GA#3Atlanta
+US-GA#4Atlanta
+US-NY#16New York City
+US-NY#17New York City
+US-NY#18New York City
+US-NY#19New York City
+US-NY#20New York City
+US-CA#20Los Angeles
+US-CA#21Los Angeles
+US-CA#22Los Angeles
+US-CA#23Los Angeles
+US-CA#24Los Angeles
+US-CA#28Los Angeles
+US-CA#29Los Angeles
+US-CA#30Los Angeles
+US-CA#31Los Angeles
+US-CA#32Los Angeles
+US-FL#4Miami
+US-FL#5Miami
+US-FL#6Miami
+US-FL#7Miami
+US-FL#8Miami
+US-FL#12Miami
+US-FL#13Miami
+US-FL#14Miami
+US-FL#15Miami
+US-FL#16Miami
+US-IL#20Chicago
+US-IL#21Chicago
+US-IL#22Chicago
+US-IL#23Chicago
+US-IL#24Chicago
+US-IL#28Chicago
+US-IL#29Chicago
+US-IL#30Chicago
+US-IL#31Chicago
+US-IL#32Chicago
+US-TX#12Dallas
+US-TX#13Dallas
+US-TX#14Dallas
+US-TX#15Dallas
+US-TX#16Dallas
+US-CO#4Denver
+US-CO#5Denver
+US-CO#6Denver
+US-CO#7Denver
+US-CO#8Denver
+US-GA#16Atlanta
+US-GA#17Atlanta
+US-GA#18Atlanta
+US-GA#19Atlanta
+US-GA#20Atlanta
+US-FL#20Miami
+US-FL#21Miami
+US-FL#22Miami
+US-FL#23Miami
+US-FL#24Miami
+US-FL#28Miami
+US-FL#29Miami
+US-FL#30Miami
+US-FL#31Miami
+US-FL#32Miami
+US-CA#36Los Angeles
+US-CA#37Los Angeles
+US-CA#38Los Angeles
+US-CA#39Los Angeles
+US-CA#40Los Angeles
+US-CA#44Los Angeles
+US-CA#45Los Angeles
+US-CA#46Los Angeles
+US-CA#47Los Angeles
+US-CA#48Los Angeles
+US-NY#24New York City
+US-NY#25New York City
+US-NY#26New York City
+US-NY#27New York City
+US-NY#28New York City
+US-NY#32New York City
+US-NY#33New York City
+US-NY#34New York City
+US-NY#35New York City
+US-NY#36New York City
+US-CO#10Denver
+US-CO#11Denver
+US-CO#12Denver
+US-GA#22Atlanta
+US-GA#23Atlanta
+US-GA#24Atlanta
+US-TX#18Dallas
+US-TX#19Dallas
+US-TX#20Dallas
+US-NY#38New York City
+US-NY#39New York City
+US-NY#40New York City
+US-CA#50Los Angeles
+US-CA#51Los Angeles
+US-CA#52Los Angeles
+US-IL#33Chicago
+US-IL#34Chicago
+US-IL#35Chicago
+US-IL#36Chicago
+US-IL#38Chicago
+US-IL#39Chicago
+US-IL#40Chicago
+US-IL#42Chicago
+US-IL#43Chicago
+US-IL#44Chicago
+US-GA#25Atlanta
+US-GA#26Atlanta
+US-GA#27Atlanta
+US-GA#28Atlanta
+US-NJ#13Secaucus
+US-NJ#14Secaucus
+US-NJ#15Secaucus
+US-NJ#16Secaucus
+US-WA#17Seattle
+US-WA#18Seattle
+US-WA#19Seattle
+US-WA#20Seattle
+US-FL#34Miami
+US-FL#35Miami
+US-FL#36Miami
+US-CO#14Denver
+US-CO#15Denver
+US-CO#16Denver
+US-CO#18Denver
+US-CO#19Denver
+US-CO#20Denver
+US-TX#22Dallas
+US-TX#23Dallas
+US-TX#24Dallas
+US-TX#26Dallas
+US-TX#27Dallas
+US-TX#28Dallas
+US-CA#54Los Angeles
+US-CA#55Los Angeles
+US-CA#56Los Angeles
+US-CA#58Los Angeles
+US-CA#59Los Angeles
+US-CA#60Los Angeles
+US-CA#62Los Angeles
+US-CA#63Los Angeles
+US-CA#64Los Angeles
+US-CA#66Los Angeles
+US-CA#67Los Angeles
+US-CA#68Los Angeles
+US-CA#70Los Angeles
+US-CA#71Los Angeles
+US-CA#72Los Angeles
+US-FL#38Miami
+US-FL#39Miami
+US-FL#40Miami
+US-FL#42Miami
+US-FL#43Miami
+US-FL#44Miami
+US-FL#46Miami
+US-FL#47Miami
+US-FL#48Miami
+US-FL#50Miami
+US-FL#51Miami
+US-FL#52Miami
+US-NY#42New York City
+US-NY#43New York City
+US-NY#44New York City
+US-NY#46New York City
+US-NY#47New York City
+US-NY#48New York City
+US-NY#50New York City
+US-NY#51New York City
+US-NY#52New York City
+US-NY#54New York City
+US-NY#55New York City
+US-NY#56New York City
+US-UT#26Salt Lake City
+US-UT#27Salt Lake City
+US-UT#28Salt Lake City
+US-UT#30Salt Lake City
+US-UT#31Salt Lake City
+US-UT#32Salt Lake City
+US-UT#34Salt Lake City
+US-UT#35Salt Lake City
+US-UT#36Salt Lake City
+US-VA#11Manassas
+US-VA#12Manassas
+US-VA#13Manassas
+US-NY#58New York City
+US-NY#59New York City
+US-NY#60New York City
+US-CA#74San Jose
+US-CA#75San Jose
+US-CA#76San Jose
+US-AZ#6Phoenix
+US-AZ#7Phoenix
+US-AZ#8Phoenix
